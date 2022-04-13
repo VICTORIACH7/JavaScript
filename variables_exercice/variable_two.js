@@ -1,0 +1,13 @@
+let mango;
+console.log(mango);
+mangue = 10;
+console.log(mango);
+mango + 1;
+console.log(mango);
+mangue += 1;
+console.log(mangue);
+let banana = mangue;
+console.log(banana);
+let banane = banana / 2;
+console.log(banane);
+console.log(mangue);
